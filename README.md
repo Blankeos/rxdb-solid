@@ -1,3 +1,14 @@
+# RxDB + Solid
+
+Experimenting with Local-first + realtime + collaborative applications using Solid.
+
+This time, I used [RxDB](https://rxdb.info/) which has replication out-of-the-box. I followed someone's tutorial for this, but it didn't work, so here it is, I'll be making one for Svelte as well.
+
+![alt text](_docs/image.png)
+
+This project was bootstrapped with [Solid Hop](https://github.com/blankeos/solid-hop)
+
+<!--
 # 🐇 Solid Hop
 
 💙 A **minimal** and **unopinionated** Vike + Solid + Hono starter.
@@ -49,4 +60,4 @@ bun run build
 
 ```sh
 bun run preview # Just runs server.ts
-```
+``` -->
